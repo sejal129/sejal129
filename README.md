@@ -1,8 +1,5 @@
 ### Hola Amigo👋
 
-<!--
-**sejal129/sejal129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Python.
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Mail](sejalc230@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sejal-choudhary-9a33ab170/)
 - 😄 Pronouns: [Twitter](https://twitter.com/SejalChoudhary9)
 - ⚡ Fun fact: I talk a lot. I am totally a chill person with great humor and can give you life advices.
--->
+
