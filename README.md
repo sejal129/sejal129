@@ -18,7 +18,6 @@ Programmer (noun): A machine that turns coffee into code.
 ```
 def 4YearsOfCSE(self):
     year = 0
-    satisfaction = 0
     prevWorkDone = 0
     while(year<4):
         workDone = int(input())
@@ -29,5 +28,5 @@ def 4YearsOfCSE(self):
         prevWorkDone = workDone 
     print(Happy Coding!)
     
-self.4YearsOfCoding()
+self.4YearsOfCSE()
 ```
