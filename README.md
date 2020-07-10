@@ -24,7 +24,7 @@ def 4YearsOfCSE(self):
         if workDone>prevWorkDone:
            print("Keep it Up!")
         else:
-           print("Real programmer start from 0.")
+           print("Real programmer starts from 0.")
         prevWorkDone = workDone 
     print(Happy Coding!)
     
