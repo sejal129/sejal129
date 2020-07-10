@@ -11,9 +11,9 @@ Programmer (noun): A machine that turns coffee into code.
 ```
 - :computer: I code in Python.
 - 🌱 I’m currently learning Data Science.
-- 👯 I’m looking to collaborate on project based on Machine Learning.
-- 💬 Ask me about anything. If I didn't knew maybe I will learn something new!
-- ⚡ Fun fact: I talk a lot. I am totally a chill person with great humor and can give you life advices as well.
+- 👯 I’m looking to collaborate on project-based on Machine Learning.
+- 💬 Ask me about anything. If I didn't know maybe I will learn something new!
+- ⚡ Fun fact: I talk a lot. I am a chill person with great humor and can give you life advice as well.
 
 ```
 def 4YearsOfCSE(self):
