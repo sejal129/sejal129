@@ -1,7 +1,8 @@
 # Sejal Choudhary
 
-[![Twitter Badge](https://img.shields.io/badge/-@sejalchoudhary9-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SejalChoudhary9)](https://twitter.com/SejalChoudhary9) [![Linkedin Badge](https://img.shields.io/badge/-sejalchoudhary-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sejal-choudhary-9a33ab170/)](https://www.linkedin.com/in/sejal-choudhary-9a33ab170/) 
-[![Gmail Badge](https://img.shields.io/badge/-sejalc230@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sejalc230@gmail.com)](sejalc230@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SejalChoudhary9)](https://twitter.com/SejalChoudhary9) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sejal-choudhary-9a33ab170/)](https://www.linkedin.com/in/sejal-choudhary-9a33ab170/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sejalc230@gmail.com)](sejalc230@gmail.com)
+[![HitCount](http://hits.dwyl.com/sejal129/sejal129.svg)](http://hits.dwyl.com/sejal129/sejal129)
 ---
 ## Hola Amigo👋
 ---
