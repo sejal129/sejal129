@@ -1,7 +1,9 @@
 # Sejal Choudhary
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SejalChoudhary9)](https://twitter.com/SejalChoudhary9) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sejal-choudhary-9a33ab170/)](https://www.linkedin.com/in/sejal-choudhary-9a33ab170/) 
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sejalchoudhary_)](https://twitter.com/sejalchoudhary_) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sejal-choudhary-9a33ab170/)](https://www.linkedin.com/in/sejal-choudhary-9a33ab170/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sejalc230@gmail.com)](sejalc230@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-gray?link=https://sejal129.github.io/)](https://sejal129.github.io/)
 
 ---
 ## Hola Amigo👋
