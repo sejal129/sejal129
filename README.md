@@ -8,7 +8,7 @@
 ---
 ## Hola Amigo👋
 
-I am Sejal Choudhary, a Computer Science and Engineering Undergrad at Banasthali Vidyapith :student:. I am a Programmer, and always excited to learn new stuffs. 
+I am Sejal Choudhary, Software Engineer at HSBC. I am a Programmer, and always excited to learn new stuffs. 
 ```
 Programmer (noun): A machine that turns coffee into code.
 ```
