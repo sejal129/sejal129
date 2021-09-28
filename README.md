@@ -8,7 +8,7 @@
 ---
 ## Hola Amigo👋
 
-I am Sejal Choudhary. I am a Programmer, and always excited to learn new stuffs. 
+This is Sejal Choudhary. I am a Programmer, and always excited to learn new stuffs. 
 ```
 Programmer (noun): A machine that turns coffee into code.
 ```
