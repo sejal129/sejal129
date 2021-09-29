@@ -15,4 +15,4 @@ Programmer (noun): A machine that turns coffee into code.
 - 🏢 I am currently working at HSBC.
 - :computer: I code in Java as well as in Python.
 - 💬 Ask me about anything. If I didn't know maybe I will learn something new!
-- ⚡ Fun fact: I talk a lot. I tend to slip deep "Gyaan" into the conversation.
+- ⚡ Fun fact: I talk a lot. I tend to slip deep "gyaan" into the conversation.
